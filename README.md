@@ -36,7 +36,7 @@ The analysis was conducted on data generated in phyton using faker library. The 
 Analysis Steps
 
 1. Data Cleaning: Initial data preprocessing to handle missing values and outliers.
-2. Exploratory Data Analysis (EDA)**: Visualizing and summarizing key data points.
+2. Exploratory Data Analysis (EDA: Visualizing and summarizing key data points.
 3. Performance Evaluation: Analyzing the impact of different factors (e.g., device type, budget).
 4. ROI Calculation: Estimating the return on investment for the campaign.
 5. Reporting: Documenting findings and providing recommendations.
